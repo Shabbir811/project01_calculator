@@ -2,7 +2,7 @@
 //first we import inquirer.
 import inquirer from "inquirer";
 import chalk from "chalk";
-// we let input from user throuth inquirer 
+// we let input from user through inquirer 
 const answer = await inquirer.prompt([
     {
         name: "num1",
