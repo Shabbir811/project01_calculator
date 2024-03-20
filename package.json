@@ -1,0 +1,21 @@
+{
+  "name": "calculate_are",
+  "version": "1.0.1",
+  "description": "create calculator with using typescript,node.js,inquirer,chalk. this is project 01 in GI-AIWMD program batch 01.",
+  "main": "simple_calculator.js",
+  "type": "module",
+  "bin": "./simple_calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SHABBIR",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.26"
+  }
+}
