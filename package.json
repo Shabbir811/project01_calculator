@@ -1,6 +1,6 @@
 {
   "name": "calculate_are",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create calculator with using typescript,node.js,inquirer,chalk. this is project 01 in GI-AIWMD program batch 01.",
   "main": "simple_calculator.js",
   "type": "module",
